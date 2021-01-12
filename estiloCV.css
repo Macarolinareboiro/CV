@@ -1,0 +1,29 @@
+#nombre {
+        text-align:center;
+        background-color: #A3E4D7 
+}
+
+.título {
+        text-decoration:underline;
+        background-color: #c8e5f8;
+}
+
+.datos {
+        line-height: 2.0em;
+        font-size: 18px
+   
+}
+
+body {
+        background-color: #E8F8F5;
+        width: 925px;
+        margin-left: 205px;
+        
+}
+
+#foto {
+        float: right;
+        width: 165px;
+        height: 165px;
+}
+
